@@ -4,11 +4,17 @@
 
 ## 📌 Project Overview
 
-This project explores user behavior in a mobile game using SQL and Python.
+I'm currently learning SQL, Python, and product analytics, and this is one of my first end-to-end analytics projects.
 
-The analysis follows a complete product analytics workflow, including data quality assessment, user activity analysis, retention analysis, A/B test evaluation, and data visualization.
+I built this project to practice working with real product data and to better understand how product analysts approach user behavior analysis. Throughout the project, I worked with data quality, user activity, retention, and A/B testing, while also visualizing key metrics with Python.
 
-The objective of the project is to understand user engagement, identify retention patterns, and evaluate monetization performance through product metrics.
+My goal wasn't only to write SQL queries, but also to learn how to interpret data, formulate product hypotheses, and draw conclusions using various evidence.
+
+This research shows my learning journey, and I hope it shows both my technical progress and my interest in product analytics.
+
+🌱 Learning Note
+
+I'm still learning, so if you notice something that could be improved, I'd genuinely appreciate your feedback. I'm always looking for ways to become a better analyst.
 
 ---
 
