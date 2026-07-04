@@ -70,7 +70,7 @@ This project was completed independently with AI assistance.
 
 ChatGPT was used as a learning companion for:
 - discussing SQL solutions;
-- reviewing code and analytical reasoning;
+- reviewing code;
 - improving documentation and project structure;
 - refining the README and presentation of results.
 
