@@ -60,6 +60,21 @@ Columns:
 * Matplotlib
 * Git
 * GitHub
+* ChatGPT
+
+---
+
+## 🤖 AI Assistance
+
+This project was completed independently with AI assistance.
+
+ChatGPT was used as a learning companion for:
+- discussing SQL solutions;
+- reviewing code and analytical reasoning;
+- improving documentation and project structure;
+- refining the README and presentation of results.
+
+All SQL queries, Python code, analysis, and final conclusions were reviewed, understood, and adapted by the author.
 
 ---
 
